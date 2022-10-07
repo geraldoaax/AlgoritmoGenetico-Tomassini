@@ -4,9 +4,9 @@
 
 Este trabalho consiste em aplicar e avaliar um algoritmo genético básico para a minimização da função f, no intervalo [ 512; 512] e definida por:
 
-<div align="center" width="100%">
+<p align="center" width="100%">
 ![alt text](https://github.com/geraldoaax/AlgoritmoGenetico-Tomassini/blob/main/AG/img/funcao_tomassini.png?raw=true)
-</div>
+</p>
  
 A figura abaixo apresenta o gráfico da função nesse intervalo proposto no exemplo 3 do artigo A Survey of Genetic Algorithms de M. Tomassini. Pode-se buscar a solução no subintervalo [0, 512] e “espelhar” os valores encontrados no intervalo onde x < 0.
 
