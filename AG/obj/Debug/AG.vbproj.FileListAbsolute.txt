@@ -71,3 +71,16 @@ C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Proje
 C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AG\obj\Debug\AG.exe
 C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AG\obj\Debug\AG.xml
 C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AG\obj\Debug\AG.pdb
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\bin\Debug\AG.exe.config
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\bin\Debug\AG.exe
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\bin\Debug\AG.pdb
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\bin\Debug\AG.xml
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.vbproj.AssemblyReference.cache
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.vbproj.SuggestedBindingRedirects.cache
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.AG.resources
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.Resources.resources
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.vbproj.GenerateResource.cache
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.vbproj.CoreCompileInputs.cache
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.exe
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.xml
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG1\AlgoritmoGenetico-Tomassini\AG\obj\Debug\AG.pdb

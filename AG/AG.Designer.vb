@@ -46,9 +46,10 @@ Partial Class AG
         'btnCalcular
         '
         Me.btnCalcular.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnCalcular.Location = New System.Drawing.Point(749, 9)
+        Me.btnCalcular.Location = New System.Drawing.Point(999, 11)
+        Me.btnCalcular.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnCalcular.Name = "btnCalcular"
-        Me.btnCalcular.Size = New System.Drawing.Size(131, 40)
+        Me.btnCalcular.Size = New System.Drawing.Size(175, 49)
         Me.btnCalcular.TabIndex = 0
         Me.btnCalcular.Text = "Calcular AG"
         Me.btnCalcular.UseVisualStyleBackColor = True
@@ -56,9 +57,10 @@ Partial Class AG
         'txtEvolve
         '
         Me.txtEvolve.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtEvolve.Location = New System.Drawing.Point(134, 16)
+        Me.txtEvolve.Location = New System.Drawing.Point(179, 20)
+        Me.txtEvolve.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtEvolve.Name = "txtEvolve"
-        Me.txtEvolve.Size = New System.Drawing.Size(100, 26)
+        Me.txtEvolve.Size = New System.Drawing.Size(132, 30)
         Me.txtEvolve.TabIndex = 1
         Me.txtEvolve.Text = "50"
         '
@@ -66,9 +68,10 @@ Partial Class AG
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(36, 19)
+        Me.Label1.Location = New System.Drawing.Point(48, 23)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(92, 20)
+        Me.Label1.Size = New System.Drawing.Size(114, 25)
         Me.Label1.TabIndex = 2
         Me.Label1.Text = "Gerações ="
         '
@@ -76,9 +79,10 @@ Partial Class AG
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(240, 19)
+        Me.Label2.Location = New System.Drawing.Point(320, 23)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(37, 20)
+        Me.Label2.Size = New System.Drawing.Size(48, 25)
         Me.Label2.TabIndex = 4
         Me.Label2.Text = "X = "
         '
@@ -86,45 +90,50 @@ Partial Class AG
         '
         Me.txtX.Enabled = False
         Me.txtX.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtX.Location = New System.Drawing.Point(283, 16)
+        Me.txtX.Location = New System.Drawing.Point(377, 20)
+        Me.txtX.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtX.Name = "txtX"
-        Me.txtX.Size = New System.Drawing.Size(100, 26)
+        Me.txtX.Size = New System.Drawing.Size(132, 30)
         Me.txtX.TabIndex = 3
         '
         'Label3
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(389, 19)
+        Me.Label3.Location = New System.Drawing.Point(519, 23)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(48, 20)
+        Me.Label3.Size = New System.Drawing.Size(63, 25)
         Me.Label3.TabIndex = 6
         Me.Label3.Text = "f(x) = "
         '
         'txtfx
         '
         Me.txtfx.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtfx.Location = New System.Drawing.Point(443, 16)
+        Me.txtfx.Location = New System.Drawing.Point(591, 20)
+        Me.txtfx.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtfx.Name = "txtfx"
-        Me.txtfx.Size = New System.Drawing.Size(100, 26)
+        Me.txtfx.Size = New System.Drawing.Size(132, 30)
         Me.txtfx.TabIndex = 5
         '
         'Label4
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(549, 19)
+        Me.Label4.Location = New System.Drawing.Point(732, 23)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(74, 20)
+        Me.Label4.Size = New System.Drawing.Size(92, 25)
         Me.Label4.TabIndex = 8
         Me.Label4.Text = "Fitness ="
         '
         'txtFitness
         '
         Me.txtFitness.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtFitness.Location = New System.Drawing.Point(629, 16)
+        Me.txtFitness.Location = New System.Drawing.Point(839, 20)
+        Me.txtFitness.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtFitness.Name = "txtFitness"
-        Me.txtFitness.Size = New System.Drawing.Size(100, 26)
+        Me.txtFitness.Size = New System.Drawing.Size(132, 30)
         Me.txtFitness.TabIndex = 7
         '
         'agChart
@@ -135,13 +144,14 @@ Partial Class AG
         Me.agChart.ChartAreas.Add(ChartArea1)
         Legend1.Name = "Legend1"
         Me.agChart.Legends.Add(Legend1)
-        Me.agChart.Location = New System.Drawing.Point(12, 55)
+        Me.agChart.Location = New System.Drawing.Point(16, 68)
+        Me.agChart.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.agChart.Name = "agChart"
         Series1.ChartArea = "ChartArea1"
         Series1.Legend = "Legend1"
         Series1.Name = "Series1"
         Me.agChart.Series.Add(Series1)
-        Me.agChart.Size = New System.Drawing.Size(631, 356)
+        Me.agChart.Size = New System.Drawing.Size(841, 438)
         Me.agChart.TabIndex = 9
         Me.agChart.Text = "AG"
         Title1.Name = "Tomassini"
@@ -157,31 +167,37 @@ Partial Class AG
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvPopulacao.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvPopulacao.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Item, Me.Cromo})
-        Me.dgvPopulacao.Location = New System.Drawing.Point(649, 55)
+        Me.dgvPopulacao.Location = New System.Drawing.Point(865, 68)
+        Me.dgvPopulacao.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.dgvPopulacao.MultiSelect = False
         Me.dgvPopulacao.Name = "dgvPopulacao"
         Me.dgvPopulacao.ReadOnly = True
+        Me.dgvPopulacao.RowHeadersWidth = 51
         Me.dgvPopulacao.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dgvPopulacao.Size = New System.Drawing.Size(243, 356)
+        Me.dgvPopulacao.Size = New System.Drawing.Size(324, 438)
         Me.dgvPopulacao.TabIndex = 10
         '
         'Item
         '
         Me.Item.HeaderText = "Item"
+        Me.Item.MinimumWidth = 6
         Me.Item.Name = "Item"
         Me.Item.ReadOnly = True
+        Me.Item.Width = 125
         '
         'Cromo
         '
         Me.Cromo.HeaderText = "Cromo"
+        Me.Cromo.MinimumWidth = 6
         Me.Cromo.Name = "Cromo"
         Me.Cromo.ReadOnly = True
+        Me.Cromo.Width = 125
         '
         'AG
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(904, 416)
+        Me.ClientSize = New System.Drawing.Size(1205, 512)
         Me.Controls.Add(Me.dgvPopulacao)
         Me.Controls.Add(Me.agChart)
         Me.Controls.Add(Me.Label4)
@@ -193,6 +209,7 @@ Partial Class AG
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.txtEvolve)
         Me.Controls.Add(Me.btnCalcular)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Name = "AG"
         Me.Text = "AG"
         CType(Me.agChart, System.ComponentModel.ISupportInitialize).EndInit()
