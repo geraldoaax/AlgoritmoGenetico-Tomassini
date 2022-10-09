@@ -15,7 +15,7 @@ Este trabalho consiste em aplicar e avaliar um algoritmo genético básico para 
 A figura abaixo apresenta o gráfico da função nesse intervalo proposto no exemplo 3 do artigo A Survey of Genetic Algorithms de M. Tomassini. Pode-se buscar a solução no subintervalo [0, 512] e “espelhar” os valores encontrados no intervalo onde x < 0.
 
 <p align="center"> 
-<https://github.com/geraldoaax/AlgoritmoGenetico-Tomassini/blob/main/AG/img/grafico_funcao.png/>
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-Tomassini/blob/main/AG/img/grafico_funcao.png/>
 <br/>
 Figura 1: Gráfico da função f no intervalo [-512, 512]
 </p>
@@ -32,6 +32,6 @@ Sobre a parametrização do algoritmo genético aplicado a este problema, foi co
 3. valores muito pequenos para esses parâmetros tornam o processo evolutivo mais lento.
 
 <p align="center"> 
-<https://github.com/geraldoaax/AlgoritmoGenetico-Tomassini/blob/main/AG/img/resultado.png/>
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-Tomassini/blob/main/AG/img/resultado.png/>
 <br/>
 </p>
